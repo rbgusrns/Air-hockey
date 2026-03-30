@@ -62,6 +62,10 @@ This project was built around the idea of creating a simple sports robot that a 
 - Includes firmware, vision code, and 3D part files in a single repository.
 - Serves as a compact reference project for robotics competitions and capstone-style demonstrations.
 
+## Achievement
+
+- Awarded the Encouragement Prize at the 2024 ICT Convergence Project Contest.
+
 ## Demo
 
 - Overview video: https://youtu.be/xwHemnOOevc?feature=shared
