@@ -69,11 +69,3 @@ This project was built around the idea of creating a simple sports robot that a 
 ## Demo
 
 - Overview video: https://youtu.be/xwHemnOOevc?feature=shared
-
-## References
-
-This README structure was refreshed with inspiration from competition-oriented robotics documentation patterns seen in:
-
-- JP Robotrace projects and related competition pages
-- MUC-style contest repositories with structured overview and schedule-oriented documentation
-- AD Challenge documentation with clear objective and resource-link sections
